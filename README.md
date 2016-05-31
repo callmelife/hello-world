@@ -1,2 +1,4 @@
 # hello-world
-A place to store ideas, resources, or even share
+Hello!
+
+Looking to learn something.  
